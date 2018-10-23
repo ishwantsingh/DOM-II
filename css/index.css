@@ -181,6 +181,29 @@ img {
   border-bottom: 2px dashed #C0C0C0;
   position: fixed;
 }
+/* added by me */
+
+.nav-color {
+  background-color : cyan;
+}
+.nav-color-default {
+  background-color: white;
+}
+.textBig {
+  font-size: 5rem;
+}
+.colorRed {
+  color: red;
+}
+
+.colorYelgre {
+  color: yellowgreen;
+}
+.displayNone {
+  display: none;
+}
+/* finished */
+
 .main-navigation .nav-container {
   height: 100%;
   display: flex;
@@ -350,3 +373,7 @@ img {
   background: #FFFFFF;
   color: #17A2B8;
 }
+
+
+/* added by me */
+
